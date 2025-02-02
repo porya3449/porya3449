@@ -5,7 +5,7 @@
 -  bachelor's degree in computer engineering from Iran-Yasouj Azad University
 - 📫 email : pdelbazfar@gmail.com
 - LinkedIn : porya delbazdar
-- instagram : poryaaaaaaaa_
+- instagram : pouriadelbazfar
 - Telegram : @poryadelbazfar
 <!---
 porya3449/porya3449 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
